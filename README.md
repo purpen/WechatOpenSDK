@@ -5,4 +5,4 @@
 
 使用方法：
 
-`pod 'WechatOpenSDK', :git=>'https://github.com/OnelongX/WechatOpenSDK.git'`
+`pod 'WechatOpenSDK', :git=>'https://github.com/purpen/WechatOpenSDK.git'`
